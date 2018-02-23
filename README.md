@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/matthewp/matthew-pmo3.png?branch=master)](https://travis-ci.org/matthewp/matthew-pmo3)
 # place-my-order
 
 Welcome to the place-my-order DoneJS application!
